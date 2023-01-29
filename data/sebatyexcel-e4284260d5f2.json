@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sebatyexcel",
+  "private_key_id": "e4284260d5f28b03a1306e48e1d164a705b80e72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiOUBrAXAGX2AJ\nTpki571zbKTxdoIDaq/M5eWuaNelzVtEDRR/4MZVNA01GcMawjwb6hNiTvIXl2JW\n2Ko0N6pr72uTdgW4N30ix3fhYkVamiOG1r9+jUnxxj2IT0M7+W7PSp/v3pLcldvC\nFxYIfM5Ye4MB2rTP4Xr3Pvuz/KYbbbON2U+hfystIxtgwkXjf3KGJKJtvBjnx4EH\n9h7xA5ITjUQLkRwwcEdpDmehmYHP+HPF3AaYLJesSTwcIjbbFuv5dCQBcJDtafgE\nAweyjwVPRf0DXi8rA4opmavVPYLVRSVTvj1k/1m59L2h1SNminPilvzm4xjw986w\n9MjSLguFAgMBAAECggEADs8tKKQgM4aYWJug2kBd7lmxJY56veMEza7KHaQG4/eA\nz0Bk9GcgTLEa4TxFwbFv8mrdKH0fC4zRNvq5j7AKM8UpX26lOrVFN5rjvekrPZ5k\nD35s7EmvCskNu6fmsJ0oVCEgPbluF0snJvpQaq9S6cdyINOyrP4niNqCazqxnA9v\noYapcNaEoCUBZ4G2xdfO6xijlPrtNM5lhQ+VlzVnTNgpR+SzAS6EKwQm5dl4roUH\nOu31Iq1BXfvf9KgNx+GaMlbXhiouA6mvURHYoes16S2EPnii1TsDR1VC+fe3K3qt\n2FQRPgRi0B5is/cXU+IcbnG/FgV/cceb+/YyCGILAQKBgQD3q96+p3hKI3YemTuJ\ny1M8QySYy7pOxKa3i7iwplHE4SudkLrEW7RBqLbNsieaiSCsFCdW6zemGkS6QWes\nVKJNFf3i9xGICchkmgJSXXXR1QhnPaULgSiCUpxzbv4QkG7QrVkLTZCtN7Qp3Oyt\nk6iK5mtA64baipyGqkJVH6MTAQKBgQDp1L6OFSoSXEQwUZxofjvUd84JzgNjurL5\ndnIcTWjtxt98vL6CzPYPiQnmpCn0SQ2WcF7kPK3QbJrZkVVy2t2x+LeWDiIZzNcW\nF2ynkAg4XLkbY7jaRvJQ/V6dCM7Lt8GPnlwmw5pc0alS7nc39lSIXF0MxjRAeML4\n7dlAuDEshQKBgQCDQn5Zks4IlMSsMM/CFpU1cew6YnaJ+mTVD+LBFFRvwFpqNmMV\nX/ind6/yUgH1P8mmCURUJ3Mlv/Q+th0o0u31ZrtYh1KuQ2kGEC0807V2kK3UcXJA\nJ6J9dyTddKyHwNRKGiT//Yq4krYUHbb9wyzm+HlNPcYJmr6cDC39iTfXAQKBgA9R\nLU5XWpMrUhgsMGez5S1sz6VaxmQRBcpLlPv/oiD5Rwh/wKcG0BOCcZCXLlxfMLGr\nGLwwsV4WzynzWDqW1bDjzvrYYCl6fphm3mo3iCJRCJsftCswPI1Lm5gDzLARkG9c\n+0Jay9DKtyHElzCmRTFNg5bjoOacQoFV60ZPCoGVAoGAL120enbZ18y3hjQvJDEt\nXn1+n8JuhsP2K6xjfqyDSVabgTcXc/ccC8iB/OHjaLtLGajOcXKGEhfU+/wyr06j\n71gLxQaZ0CxTzYl6/phKOyK5WTsOWddhVG0SaDEdEbAFeJ/z9sG50Wg6RS58AjeP\nkxSABAaUBVjsK80CSm/Wmj0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "accessgoogleapi@sebatyexcel.iam.gserviceaccount.com",
+  "client_id": "112483785879214030584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accessgoogleapi%40sebatyexcel.iam.gserviceaccount.com"
+}
