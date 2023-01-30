@@ -1,5 +1,5 @@
 ### Instructions for running the code
-1. Executable file is src/main.py
+1. Executable file is `src/main.py`
 2. For execution run with the environment variable `RESOURCES_FOLDER` as following:
     ```
     RESOURCES_FOLDER="/path/to folder" python src/main.py
