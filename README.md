@@ -10,5 +10,5 @@
     RESOURCES_FOLDER="/path/to folder"
     ```
 4. The output of this program will be the list of CSV files created within the `RESOURCES_FOLDER/out`
-    - The main file is the `driver.csv` with the main level of language - count histogram
-    - Other `csv` files are Components distribution within a language
+    - The main file is the `driver.csv` with the main level of language - count values
+    - Other `csv` files are Components distribution for each language
